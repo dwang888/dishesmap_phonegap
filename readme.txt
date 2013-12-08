@@ -1,0 +1,1 @@
+a phonegap implementation of dishesmap client
